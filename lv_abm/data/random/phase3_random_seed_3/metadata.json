@@ -1,0 +1,27 @@
+{
+  "agent_condition": "random",
+  "best_generation": 111,
+  "best_loss": 17.369922637939453,
+  "data_path": "./data/random/phase3_random_seed_3/",
+  "ep_len": 6000,
+  "loss_component_count": 7,
+  "loss_component_names": [
+    "phase",
+    "extinction",
+    "ceiling",
+    "amp",
+    "turning",
+    "crossing",
+    "drift"
+  ],
+  "max_sheep": 400,
+  "max_wolf": 400,
+  "num_worlds": 16,
+  "phase3_generations": 150,
+  "pop_size": 16,
+  "random_brains_per_generation": true,
+  "saved_at_utc": "2026-05-07T20:48:34.716593Z",
+  "script": "train_rand.py",
+  "seed": 3,
+  "status": "complete"
+}
