@@ -1,0 +1,26 @@
+{
+  "agent_condition": "evolved",
+  "best_generation": 37,
+  "best_loss": 38.37692642211914,
+  "data_path": "./data/evolved/phase3_evolved_seed_2/",
+  "ep_len": 6000,
+  "loss_component_count": 7,
+  "loss_component_names": [
+    "phase",
+    "extinction",
+    "ceiling",
+    "amp",
+    "turning",
+    "crossing",
+    "drift"
+  ],
+  "max_sheep": 400,
+  "max_wolf": 400,
+  "num_worlds": 16,
+  "phase3_generations": 150,
+  "pop_size": 16,
+  "saved_at_utc": "2026-05-07T21:30:43.190264Z",
+  "script": "train_evolved.py",
+  "seed": 2,
+  "status": "complete"
+}
