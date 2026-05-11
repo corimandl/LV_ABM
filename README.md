@@ -10,7 +10,7 @@ and lose energy through foraging and predation, with death and reproduction
 driving population dynamics. The model is implemented in ABMax, a JAX-based 
 ABM framework enabling parallelized simulation on hardware accelerators.
 
-A differentiable loss function is defined over population trajectories to 
+A loss function is defined over population trajectories to 
 reward sustained oscillations, correct predator-prey phase lag, bounded 
 populations, and long-term stability. Environmental and demographic parameters 
 are optimized using CMA-ES against this objective. Agent controllers are 
