@@ -1,5 +1,4 @@
 # Stabilising Agent-based Predation Model using Lotka-Volterra Equations
-Honours BSc Thesis 2026 — Radboud University
 
 Can a continuous predator-prey agent-based model be tuned to produce 
 Lotka-Volterra-like population cycles?
