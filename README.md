@@ -1,5 +1,7 @@
 # Stabilising Agent-based Predation Model using Lotka-Volterra Equations
 
+📄 **Published paper:** [Springer Nature](https://link.springer.com/chapter/10.1007/978-3-032-39953-3_7)
+
 Can a continuous predator-prey agent-based model be tuned to produce 
 Lotka-Volterra-like population cycles?
 
